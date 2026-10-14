@@ -1,0 +1,1 @@
+# solocoin-metadata
