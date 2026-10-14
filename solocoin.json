@@ -1,1 +1,6 @@
-
+{
+  "name": "SoloCoin",
+  "symbol": "SOLO",
+  "description": "A practice fungible token created while learning Solana development.",
+  "image": "https://www.pngall.com/wp-content/uploads/2/S-Letter.png"
+}
